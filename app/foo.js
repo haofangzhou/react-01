@@ -1,3 +1,3 @@
 export default function(){
-  return ' hello webpack'
+  return '方方的教程'
 }
